@@ -11,7 +11,7 @@ export default function TextInputBox({pass} : TextInputBoxProps){
             <TextInput 
                 style={S.input} 
                 placeholder='Pass'
-                placeholderTextColor="#fff"
+                placeholderTextColor="#ffffff7b"
                 value={pass}
             />
     )
